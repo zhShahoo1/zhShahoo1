@@ -11,7 +11,7 @@
 
 ## 💻 What I do
 - 🔭 **Currently working on**: Tools for 3D/4D ultrasound visualization and medical image segmentation.
-- 🌱 **Learning & exploring**: WebGL optimization, rendering volumes with Three.js, and building fast APIs using FastAPI.
+- 🌱 **Learning & exploring**: WebGL optimization, rendering volumes with Three.js, and building fast APIs using FastAPI and Flask.
 - ⚙️ **Domain experience**: Processing medical data formats (DICOM/NIfTI), navigating medical software compliance (EU MDR, IEC 62304), and setting up automated data pipelines.
 - 💬 **Ask me about**: Python, web-based 3D graphics, data analysis, or building software for the medical field.
 
@@ -24,13 +24,17 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img alt="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+
 </p>
 
 ### Data Tools
 <p>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
+  <img alt="MATLAB" src="https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img alt="Alteryx" src="https://img.shields.io/badge/Alteryx-0080B8?style=for-the-badge&logo=alteryx&logoColor=white" />
